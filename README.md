@@ -16,9 +16,9 @@ Before using this script, ensure you have:
 - A **JIRA API token** (see instructions below)
 
 ### Getting a JIRA API Token
-1. Log in to your JIRA account.
-2. Go to **Account Settings > Security**.
-3. Generate an **API token**.
+1. Go to https://issues.redhat.com/secure/ViewProfile.jspa
+2. Go to **Personal Access Tokens**.
+3. Click **Create token**.
 4. Copy and save the token securely.
 
 ---
