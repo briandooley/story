@@ -51,7 +51,7 @@ python story.py "<JIRA_SEARCH_URL>" -t <YOUR_API_TOKEN>
 python story.py "https://issues.redhat.com/issues/?jql=project%20in%20(SRVCOM,%20SRVKE,%20SRVKS,%20SRVCLI,%20SRVOCF,%20SRVLOGIC)%20AND%20fixVersion%20%3D%201.36.0%20AND%20component%20%3D%20Documentation%20AND%20priority%20%3D%20Blocker%20ORDER%20BY%20priority%20DESC" -t my_api_token_here
 ```
 
-### Output
+### Example Output
 ```
 Total Story Points: 42
 Issues without story points:
